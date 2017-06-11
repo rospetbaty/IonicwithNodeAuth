@@ -2,7 +2,6 @@ import { Component } from '@angular/core';
 import { NavController, IonicPage } from 'ionic-angular';
 import { GithubservicesProvider } from '../../providers/githubservices/githubservices';
 import { RepoDetailsPage} from '../repo-details/repo-details';
-import { AuthProvider} from '../../providers/auth/auth'
 
 @IonicPage()
 @Component({
